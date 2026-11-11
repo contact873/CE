@@ -47,6 +47,12 @@ python3 -m http.server 8084
 
 Then open http://localhost:8084/
 
+## Repository and Vercel
+
+This repository is `contact873/CE`. The site sits at the repository root. To deploy, import `contact873/CE` in Vercel, set the framework preset to **Other**, leave the build command empty and the output directory empty or `.`.
+
+The `deliverables/` folder holds the three deployable archives. It is excluded from the published site by `.vercelignore`, together with `tools/`, `README.md` and `site.config.json`.
+
 ## Deploy
 
 Static site, no build step. On Vercel, import the folder, set the framework preset to **Other**, leave the build command empty and the output directory empty or `.`.
