@@ -1,0 +1,18 @@
+{
+  "name": "Consolidated Engineers",
+  "domain": "cedefense.com",
+  "status": "demo",
+  "indexable": false,
+  "pages": 17,
+  "articles": 5,
+  "email": "info@cedefense.com",
+  "phone": "+92 42 3576 4907-08",
+  "address": "CE House, 108 E-1, Gulberg III, Lahore, Pakistan",
+  "credentials": ["DGDP contractor since 1985", "Financial Category A", "LCCI 2806-A since 1972"],
+  "notes": [
+    "Complete redesign. Original layout, typography and written content.",
+    "Photographs are taken from the firm's existing site assets and optimised for the web.",
+    "All pages are noindex and robots.txt disallows crawlers until the client approves the rebuild.",
+    "The enquiry form is a demonstration and produces an email draft, not a server-side submission."
+  ]
+}
