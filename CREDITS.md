@@ -39,3 +39,11 @@ file size > 60 KB. Pixel dimensions at download time:
 
 Attribution wording (optional, not required by the license): "Photo by
 <photographer> on Pexels".
+
+## Generated imagery (Nano Banana / Gemini image)
+
+`gen-*.jpg` are original AI-generated images (Nano Banana, 2026-11-16) created for this site from
+art-directed prompts in the navy/gold identity: hero airfield backdrop, the four product category
+scenes (ground support, cranes, runway repair and flood lights, aviation tyres), aerial lift,
+mining, components macro, workshop services, sectors horizon and the about banner. No third-party
+rights involved. Corner watermark cropped.
